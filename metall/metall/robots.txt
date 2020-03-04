@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /search/
+Disallow: /admin/
+Sitemap: https://mldm.ru/sitemap
+Host: https://mldm.ru/
